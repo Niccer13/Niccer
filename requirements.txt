@@ -1,0 +1,8 @@
+discord.py
+asyncio
+chalk
+datetime
+safygiphy
+io
+requests
+random
