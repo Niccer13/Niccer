@@ -2,6 +2,5 @@ discord.py
 asyncio
 datetime
 safygiphy
-io
 requests
 random
