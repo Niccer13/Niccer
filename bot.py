@@ -206,4 +206,4 @@ if __name__ == "__main__":
 
 
 
-bot.run("NDE3ODI1MTQzMzA2MzIxOTQw.DXcy8Q.YPXp_s-RSFe4Plx-B-o9Ak3hCj8")
+bot.run("BOT_TOKEN")
